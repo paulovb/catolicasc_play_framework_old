@@ -1,0 +1,207 @@
+2014-04-14 21:24:19,899 - [INFO] - from play in pool-12-thread-2 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-04-14 21:24:46,028 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:24:50,393 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@288f78
+
+2014-04-14 21:24:50,394 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@e33865
+
+2014-04-14 21:24:50,395 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@18b7aa0
+
+2014-04-14 21:24:51,331 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-04-14 21:24:59,464 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:24:59,641 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@19c97a
+
+2014-04-14 21:24:59,641 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@fa8b83
+
+2014-04-14 21:24:59,641 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@dd8382
+
+2014-04-14 21:24:59,802 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-04-14 21:26:08,509 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:26:08,737 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@940b5f
+
+2014-04-14 21:26:08,738 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@176aa11
+
+2014-04-14 21:26:08,738 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@197782e
+
+2014-04-14 21:26:08,904 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-04-14 21:29:02,616 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:29:02,999 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@2dfc33
+
+2014-04-14 21:29:02,999 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@108b6ef
+
+2014-04-14 21:29:03,000 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@12236ae
+
+2014-04-14 21:29:03,166 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-04-14 21:30:51,319 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:30:51,500 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@15a84d1
+
+2014-04-14 21:30:51,501 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@1c5bd36
+
+2014-04-14 21:30:51,502 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@10965c3
+
+2014-04-14 21:30:51,704 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-04-14 21:34:44,388 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:34:44,558 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@1964784
+
+2014-04-14 21:34:44,558 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@131331a
+
+2014-04-14 21:34:44,558 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@1121aa1
+
+2014-04-14 21:34:44,758 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-04-14 21:39:55,964 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:39:56,147 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@1e79694
+
+2014-04-14 21:39:56,147 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@14f05e4
+
+2014-04-14 21:39:56,148 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@10bd506
+
+2014-04-14 21:39:56,343 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-04-14 21:41:32,902 - [INFO] - from play in play-internal-execution-context-6 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:41:33,084 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-6 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@10c8b33
+
+2014-04-14 21:41:33,084 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-6 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@86f519
+
+2014-04-14 21:41:33,085 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-6 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@4549ea
+
+2014-04-14 21:41:33,318 - [INFO] - from play in play-internal-execution-context-6 
+Application started (Dev)
+
+2014-04-14 21:45:21,247 - [ERROR] - from application in New I/O worker #4 
+
+
+! @6hpop51f0 - Internal server error, for (GET) [/app] ->
+
+play.PlayExceptions$CompilationException: Compilation error[not found: value personForm]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14$$anonfun$apply$16.apply(PlayReloader.scala:304) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14$$anonfun$apply$16.apply(PlayReloader.scala:304) ~[na:na]
+	at scala.Option.map(Option.scala:145) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14.apply(PlayReloader.scala:304) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14.apply(PlayReloader.scala:298) ~[na:na]
+	at scala.Option.map(Option.scala:145) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2.apply(PlayReloader.scala:298) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2.apply(PlayReloader.scala:296) ~[na:na]
+	at scala.util.Either$LeftProjection.map(Either.scala:377) ~[na:na]
+	at play.PlayReloader$$anon$1.reload(PlayReloader.scala:296) ~[na:na]
+	at play.core.ReloadableApplication$$anonfun$get$1.apply(ApplicationProvider.scala:104) ~[na:na]
+	at play.core.ReloadableApplication$$anonfun$get$1.apply(ApplicationProvider.scala:102) ~[na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) ~[na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) ~[na:na]
+	at com.typesafe.trace.FutureRunnable.run(FutureTrace.scala:119) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinTask$AdaptedRunnableAction.exec(ForkJoinTask.java:1361) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) ~[na:na]
+
+2014-04-14 21:45:46,213 - [ERROR] - from application in New I/O worker #4 
+
+
+! @6hpop6ce6 - Internal server error, for (GET) [/app] ->
+
+play.PlayExceptions$CompilationException: Compilation error[not found: value simpleForm]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14$$anonfun$apply$16.apply(PlayReloader.scala:304) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14$$anonfun$apply$16.apply(PlayReloader.scala:304) ~[na:na]
+	at scala.Option.map(Option.scala:145) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14.apply(PlayReloader.scala:304) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2$$anonfun$apply$14.apply(PlayReloader.scala:298) ~[na:na]
+	at scala.Option.map(Option.scala:145) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2.apply(PlayReloader.scala:298) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2.apply(PlayReloader.scala:296) ~[na:na]
+	at scala.util.Either$LeftProjection.map(Either.scala:377) ~[na:na]
+	at play.PlayReloader$$anon$1.reload(PlayReloader.scala:296) ~[na:na]
+	at play.core.ReloadableApplication$$anonfun$get$1.apply(ApplicationProvider.scala:104) ~[na:na]
+	at play.core.ReloadableApplication$$anonfun$get$1.apply(ApplicationProvider.scala:102) ~[na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) ~[na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) ~[na:na]
+	at com.typesafe.trace.FutureRunnable.run(FutureTrace.scala:119) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinTask$AdaptedRunnableAction.exec(ForkJoinTask.java:1361) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) ~[na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) ~[na:na]
+
+2014-04-14 21:46:07,200 - [INFO] - from play in play-internal-execution-context-6 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:46:07,381 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-6 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@5df580
+
+2014-04-14 21:46:07,381 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-6 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@a0c67d
+
+2014-04-14 21:46:07,382 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-6 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@1473dfe
+
+2014-04-14 21:46:07,591 - [INFO] - from play in play-internal-execution-context-6 
+Application started (Dev)
+
+2014-04-14 21:47:36,880 - [INFO] - from play in play-internal-execution-context-10 
+database [default] connected at jdbc:h2:db/development
+
+2014-04-14 21:47:37,062 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-10 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@58db3b
+
+2014-04-14 21:47:37,063 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-10 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@1a12084
+
+2014-04-14 21:47:37,064 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-10 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@15de70e
+
+2014-04-14 21:47:37,312 - [INFO] - from play in play-internal-execution-context-10 
+Application started (Dev)
+
